@@ -1,5 +1,7 @@
 ### 学习Google速成课程时的练习  
 
+课程地址：https://developers.google.cn/machine-learning/crash-course/
+
 分别使用
 - tf.estimator.LinearRegressor  
 - tf.estimator.LinearClassifier  
